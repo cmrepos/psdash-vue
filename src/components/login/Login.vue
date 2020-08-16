@@ -18,7 +18,7 @@
 
             <!-- Footer -->
             <div id="formFooter">
-                <p class="m-0 text-center text-secondary">Copyright &copy; Merfrei Solutions {{ new Date().getFullYear() }}</p>
+                <p class="m-0 text-center text-secondary">Copyright &copy; Competitor Monitor {{ new Date().getFullYear() }}</p>
             </div>
 
         </div>
